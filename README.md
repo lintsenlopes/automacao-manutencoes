@@ -13,8 +13,8 @@ Projeto estruturado na linguagem Python que lê uma planilha de manutenções pr
 3. Execute: `py manutencao-hospital.py`
 
 ## Status
-Em desenvolvimento. Já lê a planilha e acessa colunas.
-Próximo passo: contar máquinas com preventiva feita e pendente.
+Em desenvolvimento. O que já faz? Lê a planilha, acessa colunas, indica quais e quantas máquinas passaram por higienização química/preventiva, e quantas ainda não passaram.
+Próximo passo: filtrar as manutenções por período e gerar um relatório em Excel.
 
 ## Observação
 Todos os dados da planilha são fictícios.
